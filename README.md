@@ -1,4 +1,4 @@
-# Singe EC2 VPC
+# Singe EC2 Setup in Terraform
 
 Very simple barebones terraform repo to just start a single EC2 in one VPC.
 
